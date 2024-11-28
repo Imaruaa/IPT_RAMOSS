@@ -1,0 +1,73 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.image-box {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.image-box img {
+    width: 200px;
+    height: 200px;
+    border: 1px solid #000;
+}
+
+h2 {
+    margin-top: 20px;
+    border-bottom: 2px solid #000;
+    padding-bottom: 5px;
+    background: black;
+    color: #fff;
+}
+
+h3 {
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+
+
+
+.personal-data, .educationalBackground, .employmentBackground, .characterReference {
+    margin-top: 20px;
+    border: 1px solid #000;
+    padding: 10px;
+}
+
+
+.underline{
+        text-decoration: underline;
+    
+}
+
+.certification {
+    margin-top: 20px;
+    border: 1px solid #000;
+    padding: 10px;
+}
+
+.declaration {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.declaration p {
+    margin: 5px 0;
+}
